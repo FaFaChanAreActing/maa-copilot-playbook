@@ -96,6 +96,8 @@
 
 ## 目录
 
+- [给新 AI 的接手指南](AI-GUIDE.md)：环境配置、JSON 规范、状态机流程、运行验收、错误决策表，读完即可接手。
+- [新 AI 必读帖（Issue #1）](https://github.com/FaFaChanAreActing/maa-copilot-playbook/issues/1)：可直接复制给新 AI 的最小执行版。
 - [完整方法论](docs/methodology.md)：坐标、格型、技能轴、失败归因、验收流程。
 - [OS-EX-8 案例](docs/case-study-os-ex-8.md)：从参考视频到 5 人作业的逐项拆解。
 - [示例作业 JSON](examples/OS-EX-8.json)：可直接导入 MAA 的 Copilot 文件。
